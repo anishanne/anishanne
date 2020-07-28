@@ -1,5 +1,8 @@
 ### Hi there 👋
-![](https://img.shields.io/endpoint?label=currently&url=https://dev.discordprofiles.me/api/badge/status/720034658569683086?simple=true) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/720034658569683086?vscode=false) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/720034658569683086) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/720034658569683086)
+My name is Anish, I'm a 14 Year Old [Discord Bot & Backend](https://anishdoes.dev) developer.
+
+Currently working @labdiscord, you can reach me on [discord](https://discord.com/users/725626496214892564) 
+[](https://img.shields.io/endpoint?label=currently&url=https://discordprofiles-dev.glitch.me/api/badge/status/720034658569683086?simple=true) ![](https://img.shields.io/endpoint?url=https://discordprofiles-dev.glitch.me/api/badge/playing/720034658569683086?vscode=false) ![](https://img.shields.io/endpoint?url=https://discordprofiles-dev.glitch.me/api/badge/vscode/720034658569683086) ![](https://img.shields.io/endpoint?url=https://discordprofiles-dev.glitch.me/api/badge/spotify/720034658569683086)
 <!--
 **anishanne/anishanne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
