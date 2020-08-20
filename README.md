@@ -3,7 +3,6 @@ My name is Anish, I'm a 14 Year Old [Discord Bot & Backend](https://anishdoes.de
 
 Currently working on [@labdiscord](https://github.com/labdiscord), you can reach me on [discord - AnishDoesDev#0909](https://discordlabs.org/server)
 
-[](https://img.shields.io/endpoint?label=currently&url=https://discordprofiles-dev.glitch.me/api/badge/status/720034658569683086?simple=true) ![](https://img.shields.io/endpoint?url=https://discordprofiles-dev.glitch.me/api/badge/playing/720034658569683086?vscode=false) ![](https://img.shields.io/endpoint?url=https://discordprofiles-dev.glitch.me/api/badge/vscode/720034658569683086) ![](https://img.shields.io/endpoint?url=https://discordprofiles-dev.glitch.me/api/badge/spotify/720034658569683086)
 
 Some cool stats cause why not.
 ![](https://github-readme-stats.vercel.app/api?username=kognise&show_icons=true&hide_border=true&count_private=true)
