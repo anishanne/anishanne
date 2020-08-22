@@ -8,11 +8,3 @@ Some cool stats cause why not.<br><br>
 <p align="left">
  <img align="left" width="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=anishanne&show_icons=true&hide_border=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </p>
-
-
-<p align="right">
- <img align="right" width="44%" height="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishanne&show_border=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</p>
-
-
-
