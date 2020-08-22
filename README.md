@@ -6,7 +6,7 @@ Currently working on [@labdiscord](https://github.com/labdiscord), you can reach
 
 Some cool stats cause why not.<br><br>
 <p align="left">
-![](https://github-readme-stats.vercel.app/api?username=anishanne&show_icons=true&hide_border=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+ <img align="left" width="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=anishanne&show_icons=true&hide_border=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </p>
 
 
