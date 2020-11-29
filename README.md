@@ -8,10 +8,3 @@ Currently working on [@labdiscord](https://github.com/labdiscord), you can reach
  <img align="left" width="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=anishanne&show_icons=true&hide_border=true&count_private=true" />
 </p>-->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=anishanne&show_icons=true&hide_border=true&count_private=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishanne&layout=compact" />
-<p align="left">
- <img align="left" width="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=anishanne&show_icons=true&hide_border=true&count_private=true" />
-</p>
-<p align="right">
- <img align="right" width="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=anishanne&show_icons=true&hide_border=true&count_private=true" />
-</p>
