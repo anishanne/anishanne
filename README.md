@@ -1,5 +1,5 @@
 # Hello there 👋
-My name is Anish, I'm a 14 Year Old [Discord Bot & Backend](https://anishdoes.dev) developer.
+My name is Anish & I'm a 14 Year old developer.
 
 Currently working on [@labdiscord](https://github.com/labdiscord), you can reach me on [discord](https://discord.com/users/720034658569683086) (AnishDoesDev#0909).
 
