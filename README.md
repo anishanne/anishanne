@@ -12,6 +12,9 @@
 <a href="//statcord.com" target="_BLANK">Statcord</a> - Detailed statistics about your Discord Bots growth, perfect to help grow your bot. <a href="//beta.statcord.com/demo" target="_BLANK">[ DEMO ]</a><br>
 <a href="https://github.com/ArgonMod/ArgonMod" target="_BLANK">Argon Mod</a> - An Advanced Discord Moderation bot that was made for Discord Hack Week 2019. 
 
-<h2> Experience </h2>
-
-Experienced in languages like [JavaScript](https://www.javascript.com/) & [Python](https://github.com/ArgonMod/ArgonMod) as well as technologies like [NodeJS](https://nodejs.org/), [React](https://reactjs.org/) & [NextJS](https://http://nextjs.org/). Currently using [MongoDB](https://www.mongodb.com/) as my go to Database solution, but also have some experience with MySQL.
+<h2> ⚡ Technologies </h2>
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
