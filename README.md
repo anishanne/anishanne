@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/NodeJS-529f44?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React.js-000?style=for-the-badge&logo=react&logoColor=61DBFB"/>
-  <img src="https://img.shields.io/badge/Mongo-DB-589636?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mongo%20DB-589636?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 <h2>Contact Me</h2>
