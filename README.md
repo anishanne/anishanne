@@ -1,9 +1,8 @@
-<center>
- <h1> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello there.</h1>
-My name is Anish, I'm a 14 year old developer based out of New York, USA.
- </center>
-<br><br><br>
 <p align="center">
+  <h1> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello there.</h1>
+  My name is Anish, I'm a 14 year old developer based out of New York, USA.
+  <br><br><br>
+
  <img width="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=anishanne&hide_border=true&show_icons=true&count_private=true&hide=stars&bg_color=000000&theme=dark" />
 </p>
 
