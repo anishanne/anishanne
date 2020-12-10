@@ -18,5 +18,5 @@
   <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=node.js&logoColor=black"/>
   <img src="https://img.shields.io/badge/NodeJS-529f44?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mongo-589636?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React.js-61DBFB?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React.js-000?style=for-the-badge&logo=react&logoColor=61DBFB"/>
 </p>
