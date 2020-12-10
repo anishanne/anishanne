@@ -1,5 +1,5 @@
 <h1> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello there.</h1>
-I'm Anish, nice to meet you.
+My name is Anish, its nice to meet you.
 
 <h2>Current Projects</h2>
 <a href="//discordlabs.org" target="_BLANK">Discord Labs</a> - A project dedicated to creating the next generation of Discord Sites & Tools.<br>
