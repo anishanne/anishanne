@@ -2,8 +2,8 @@
 I'm Anish, nice to meet you.
 
 <h2>Projects</h2>
-[Discord Labs](https://discordlabs.org) - A project dedicated to creating the next generation of Discord Sites & Tools.
-[Statcord](https://statcord.com) - Detailed statistics about your Discord Bots growth, perfect to help grow your bot. [Demo](https://beta.statcord.com/demo)
+<a href="//discordlabs.org" target="_BLANK">Discord Labs</a> - A project dedicated to creating the next generation of Discord Sites & Tools.
+<a href="//statcord.com" target="_BLANK">Statcord</a> - Detailed statistics about your Discord Bots growth, perfect to help grow your bot. <a href="//beta.statcord.com/demo" target="_BLANK">Demo</a>
 
 
 Currently working on [@labdiscord](https://github.com/labdiscord), you can reach me on [discord](https://discord.com/users/720034658569683086) (AnishDoesDev#0909).
