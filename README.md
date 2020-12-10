@@ -16,7 +16,7 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=node.js&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html&logoColor=white"/>
   <img src="https://img.shields.io/badge/NodeJS-529f44?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React.js-000?style=for-the-badge&logo=react&logoColor=61DBFB"/>
   <img src="https://img.shields.io/badge/Mongo-589636?style=for-the-badge&logo=mongodb&logoColor=white"/>
