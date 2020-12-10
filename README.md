@@ -21,3 +21,5 @@
   <img src="https://img.shields.io/badge/React.js-000?style=for-the-badge&logo=react&logoColor=61DBFB"/>
   <img src="https://img.shields.io/badge/Mongo-589636?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
+
+Feel free to contact me on [Discord](//discord.com/users/720034658569683086) or via Email.
