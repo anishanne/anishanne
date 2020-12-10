@@ -7,4 +7,4 @@ Currently working on [@labdiscord](https://github.com/labdiscord), you can reach
 <!--<p align="left">
  <img align="left" width="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=anishanne&show_icons=true&hide_border=true&count_private=true" />
 </p>-->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=anishanne&show_icons=true&hide_border=true&count_private=true&hide=stars&bg_color=0D1117&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=anishanne&show_icons=true&count_private=true&hide=stars&bg_color=0D1117&theme=dark" />
