@@ -2,7 +2,7 @@
 I'm Anish, nice to meet you.
 
 <h2>Projects</h2>
-<a href="//discordlabs.org" target="_BLANK">Discord Labs</a> - A project dedicated to creating the next generation of Discord Sites & Tools.
+<a href="//discordlabs.org" target="_BLANK">Discord Labs</a> - A project dedicated to creating the next generation of Discord Sites & Tools.<br>
 <a href="//statcord.com" target="_BLANK">Statcord</a> - Detailed statistics about your Discord Bots growth, perfect to help grow your bot. <a href="//beta.statcord.com/demo" target="_BLANK">Demo</a>
 
 
