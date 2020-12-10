@@ -9,6 +9,6 @@ I'm Anish, nice to meet you.
 
 Experienced in languages like [JavaScript](https://www.javascript.com/) & [Python](https://github.com/ArgonMod/ArgonMod) as well as technologies like [NodeJS](https://nodejs.org/), [React](https://reactjs.org/) & [NextJS](https://http://nextjs.org/). 
 
-<center>
- <img align="center" width="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=anishanne&hide_border=true&show_icons=true&count_private=true&hide=stars&bg_color=000000&theme=dark" />
-</center>
+<p align="center">
+ <img width="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=anishanne&hide_border=true&show_icons=true&count_private=true&hide=stars&bg_color=000000&theme=dark" />
+</p>
