@@ -7,7 +7,7 @@ My name is Anish, nice to meet you. I'm a 14 year old developer thats worked on 
 
 <h2> Experience </h2>
 
-Experienced in languages like [JavaScript](https://www.javascript.com/) & [Python](https://github.com/ArgonMod/ArgonMod) as well as technologies like [NodeJS](https://nodejs.org/), [React](https://reactjs.org/) & [NextJS](https://http://nextjs.org/). 
+Experienced in languages like [JavaScript](https://www.javascript.com/) & [Python](https://github.com/ArgonMod/ArgonMod) as well as technologies like [NodeJS](https://nodejs.org/), [React](https://reactjs.org/) & [NextJS](https://http://nextjs.org/). Currently using [MongoDB](https://www.mongodb.com/) as my go to Database solution, but also have some experience with MySQL.
 
 <p align="center">
  <img width="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=anishanne&hide_border=true&show_icons=true&count_private=true&hide=stars&bg_color=000000&theme=dark" />
