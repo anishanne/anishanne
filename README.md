@@ -15,6 +15,6 @@
 <h2> ⚡ Technologies </h2>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/NodeJS-529f44?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
