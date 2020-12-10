@@ -13,8 +13,4 @@
 <a href="https://github.com/ArgonMod/ArgonMod" target="_BLANK">Argon Mod</a> - An Advanced Discord Moderation bot that was made for Discord Hack Week 2019. 
 
 <h2> ⚡ Technologies </h2>
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
-<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
