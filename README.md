@@ -22,4 +22,6 @@
   <img src="https://img.shields.io/badge/Mongo-589636?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
+<h2>Contact Me</h2>
+
 Feel free to contact me on [Discord](//discord.com/users/720034658569683086) or via Email.
