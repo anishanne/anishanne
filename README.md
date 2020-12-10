@@ -1,5 +1,10 @@
 <h1> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello there.</h1>
-My name is Anish & I'm a 14 Year old developer.
+I'm Anish, nice to meet you.
+
+<h2>Projects</h2>
+[Discord Labs](https://discordlabs.org) - A project dedicated to creating the next generation of Discord Sites & Tools.
+[Statcord](https://statcord.com) - Detailed statistics about your Discord Bots growth, perfect to help grow your bot. [Demo](https://beta.statcord.com/demo)
+
 
 Currently working on [@labdiscord](https://github.com/labdiscord), you can reach me on [discord](https://discord.com/users/720034658569683086) (AnishDoesDev#0909).
 
