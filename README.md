@@ -9,8 +9,8 @@
 
 <h2>Projects</h2>
 <a href="//discordlabs.org" target="_BLANK">Discord Labs</a> - A project dedicated to creating the next generation of Discord Sites & Tools.<br>
-<a href="//statcord.com" target="_BLANK">Statcord</a> - Detailed statistics about your Discord Bots growth, perfect to help grow your bot. <a href="//beta.statcord.com/demo" target="_BLANK">[ DEMO ]</a><br>
-<a href="/github.com/labdiscord/statcord.py" target="_BLANK">Statcord.py</a> - Python library for Statcord.com. <a href="https://pypi.org/project/statcord.py/" target="_BLANK">View On PyPi</a><br>
+<a href="//statcord.com" target="_BLANK">Statcord</a> - Detailed statistics about your Discord Bots growth, perfect to help grow your bot. <a href="//beta.statcord.com/demo" target="_BLANK">[ Demo ]</a><br>
+<a href="//github.com/labdiscord/statcord.py" target="_BLANK">Statcord.py</a> - Python library for Statcord.com. <a href="https://pypi.org/project/statcord.py/" target="_BLANK">[ View On PyPi ]</a><br>
 <a href="https://github.com/ArgonMod/ArgonMod" target="_BLANK">Argon Mod</a> - An Advanced Discord Moderation bot that was made for Discord Hack Week 2019. 
 
 <h2> ⚡ Technologies </h2>
