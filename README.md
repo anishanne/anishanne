@@ -26,3 +26,4 @@
 <h2>Contact Me</h2>
 
 Feel free to contact me on [Discord](//discord.com/users/720034658569683086) or via Email.
+![](https://api.dsc.gg/v2/widget/yeet)
